@@ -1,3 +1,5 @@
+ <img src="tododsl.jpeg" alt="Lichess QR Code Generator Icon" />
+
 This is a Todo DSL in Javascript.
 
 Write Multiple Todo lists and extract them as a JSON
